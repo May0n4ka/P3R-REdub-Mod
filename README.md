@@ -1,4 +1,4 @@
-# Persona 3 Reload - Original Voice Cast HD mod
+# Persona 3 Reload -REdub mod
 <img width="1727" height="1542" alt="image" src="https://github.com/user-attachments/assets/55ffd3bd-5821-49f8-86b1-d076201fb0f1" />
 
 
@@ -9,7 +9,7 @@ The goal of this mod is to replace various voice lines from P3R with those of th
 
 I am a member of the mod that decided to post updates of this mod here in place for Saus Ev's absence.
 
-The audio is taken from P3P and upsampled from 22050Khz samplerate to a 48000Khz samplerate
+The main story audio is taken from P3P and Upscaled to quality similar to P4G and P3R.
 
 ![277BA68A-8E23-423A-A21D-529D520F3845](https://github.com/user-attachments/assets/a22f5203-5d08-47ce-8d72-5ba6b50d7800)
 
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=ON_UqpNHS0A&list=PLLTNJbbiGHXS08yakOJVZBsHU4e4KY
 
 Discord Server
 The Official Discord
-https://discord.gg/xYUsYPa4 
+https://discord.com/invite/MtVGxeqsu9
 
 Gamebanana page
 https://gamebanana.com/mods/631972
