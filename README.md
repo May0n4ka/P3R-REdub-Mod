@@ -1,5 +1,6 @@
 # Persona 3 Reload -REdub mod
-<img width="1727" height="1542" alt="image" src="https://github.com/user-attachments/assets/55ffd3bd-5821-49f8-86b1-d076201fb0f1" />
+<img width="1727" height="1542" alt="image" src=<img width="1754" height="1632" alt="image" src="https://github.com/user-attachments/assets/5e324ef8-1332-40a5-8208-475449d945a4" />
+ />
 
 
 A mod to restore the Original Voice cast from Persona 3 into Persona 3 Reload
